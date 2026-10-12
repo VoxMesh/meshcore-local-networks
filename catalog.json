@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-12",
+  "locations": [
+    {
+      "id": "ru-ta-kazan",
+      "name": "Казань",
+      "country": "RU",
+      "region": "Республика Татарстан",
+      "lat": 55.7908,
+      "lon": 49.1144,
+      "networks": [
+        {
+          "id": "ru-ta-kazan-01",
+          "name": "Местный профиль",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "updated": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "mow",
+      "name": "Москва и Московская область",
+      "country": "RU",
+      "region": "Москва и Московская область",
+      "lat": 55.7506,
+      "lon": 37.6175,
+      "networks": [
+        {
+          "id": "mow-01",
+          "name": "Основной профиль",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-12"
+        },
+        {
+          "id": "mow-02",
+          "name": "Альтернативный профиль",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "updated": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "ru-nno-nizhny-novgorod",
+      "name": "Нижний Новгород",
+      "country": "RU",
+      "region": "Нижегородская область",
+      "lat": 56.3269,
+      "lon": 44.0075,
+      "networks": [
+        {
+          "id": "ru-nno-nizhny-novgorod-01",
+          "name": "Профиль 868 МГц",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "updated": "2026-10-12"
+        },
+        {
+          "id": "ru-nno-nizhny-novgorod-02",
+          "name": "Профиль 434 МГц",
+          "radio": {
+            "frequency_hz": 434731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "updated": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "ru-cu-cheboksary",
+      "name": "Чебоксары",
+      "country": "RU",
+      "region": "Чувашская Республика",
+      "lat": 56.1333,
+      "lon": 47.25,
+      "networks": [
+        {
+          "id": "ru-cu-cheboksary-01",
+          "name": "Местный профиль",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "updated": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "zelenograd",
+      "name": "Зеленоград",
+      "country": "RU",
+      "region": "Москва",
+      "lat": 55.9978,
+      "lon": 37.1903,
+      "parent_id": "mow",
+      "networks": [
+        {
+          "id": "zelenograd-01",
+          "name": "Зеленоградский профиль",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 8
+          },
+          "updated": "2026-10-12"
+        }
+      ]
+    }
+  ]
+}
