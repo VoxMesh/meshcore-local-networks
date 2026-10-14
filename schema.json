@@ -11,7 +11,7 @@
   ],
   "properties": {
     "schema_version": {
-      "const": 1,
+      "const": 2,
       "type": "integer"
     },
     "updated": {
@@ -75,6 +75,7 @@
       "required": [
         "id",
         "name",
+        "band",
         "radio",
         "updated"
       ],
@@ -99,6 +100,27 @@
         "community_url": {
           "type": "string",
           "format": "uri"
+        },
+        "band": {
+          "type": "string",
+          "enum": [
+            "433",
+            "868"
+          ]
+        },
+        "channels": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^#[^\\s#]+$"
+          },
+          "uniqueItems": true,
+          "minItems": 1
+        },
+        "source": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
         }
       }
     },
