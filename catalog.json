@@ -20,7 +20,8 @@
             "sf": 8,
             "cr": 6
           },
-          "updated": "2026-10-12"
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/Meshcore_KZN"
         }
       ]
     },
@@ -42,7 +43,8 @@
             "sf": 7,
             "cr": 7
           },
-          "updated": "2026-10-12"
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_rulang/1252/"
         },
         {
           "id": "mow-02",
@@ -54,7 +56,9 @@
             "sf": 8,
             "cr": 8
           },
-          "updated": "2026-10-12"
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcoremoscow",
+          "note": "В списке местных сообществ указан как старый профиль. Актуальность настроек уточните в местном сообществе."
         }
       ]
     },
@@ -76,7 +80,8 @@
             "sf": 8,
             "cr": 6
           },
-          "updated": "2026-10-12"
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/Meshcore_NN"
         },
         {
           "id": "ru-nno-nizhny-novgorod-02",
@@ -88,7 +93,8 @@
             "sf": 8,
             "cr": 8
           },
-          "updated": "2026-10-12"
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/Meshcore_NN"
         }
       ]
     },
@@ -110,7 +116,8 @@
             "sf": 8,
             "cr": 6
           },
-          "updated": "2026-10-12"
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/Meshcore_Cheb"
         }
       ]
     },
@@ -133,7 +140,943 @@
             "sf": 7,
             "cr": 8
           },
-          "updated": "2026-10-12"
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/ZelenogradMeshCore"
+        }
+      ]
+    },
+    {
+      "id": "ru-irk-angarsk",
+      "name": "Ангарск",
+      "country": "RU",
+      "region": "Иркутская область",
+      "lat": 52.566666666667,
+      "lon": 103.91666666667,
+      "networks": [
+        {
+          "id": "ru-irk-angarsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869618000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_irk"
+        }
+      ]
+    },
+    {
+      "id": "ru-ast-astrakhan",
+      "name": "Астрахань",
+      "country": "RU",
+      "region": "Астраханская область",
+      "lat": 46.35,
+      "lon": 48.035,
+      "networks": [
+        {
+          "id": "ru-ast-astrakhan-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869525000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 8
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/MeshCore_Astra"
+        }
+      ]
+    },
+    {
+      "id": "ru-alt-biysk",
+      "name": "Бийск",
+      "country": "RU",
+      "region": "Алтайский край",
+      "lat": 52.516666666667,
+      "lon": 85.166666666667,
+      "networks": [
+        {
+          "id": "ru-alt-biysk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869000000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 5
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_Biysk"
+        }
+      ]
+    },
+    {
+      "id": "ru-irk-bratsk",
+      "name": "Братск",
+      "country": "RU",
+      "region": "Иркутская область",
+      "lat": 56.152,
+      "lon": 101.633,
+      "networks": [
+        {
+          "id": "ru-irk-bratsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_btk"
+        }
+      ]
+    },
+    {
+      "id": "ru-bry-bryansk",
+      "name": "Брянск",
+      "country": "RU",
+      "region": "Брянская область",
+      "lat": 53.2425,
+      "lon": 34.366666666667,
+      "networks": [
+        {
+          "id": "ru-bry-bryansk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_bryansk"
+        }
+      ]
+    },
+    {
+      "id": "ru-vlg-cherepovets",
+      "name": "Череповец",
+      "country": "RU",
+      "region": "Вологодская область",
+      "lat": 59.133333333333,
+      "lon": 37.916666666667,
+      "networks": [
+        {
+          "id": "ru-vlg-cherepovets-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868570000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 8
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/+v1e6HllYDXAzNTgy"
+        }
+      ]
+    },
+    {
+      "id": "ru-che-chelyabinsk",
+      "name": "Челябинск",
+      "country": "RU",
+      "region": "Челябинская область",
+      "lat": 55.15,
+      "lon": 61.4,
+      "networks": [
+        {
+          "id": "ru-che-chelyabinsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 6
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/MeshCore_CHL"
+        }
+      ]
+    },
+    {
+      "id": "ru-bel-belgorod",
+      "name": "Белгород",
+      "country": "RU",
+      "region": "Белгородская область",
+      "lat": 50.6,
+      "lon": 36.6,
+      "networks": [
+        {
+          "id": "ru-bel-belgorod-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868825000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcorebelgorod"
+        }
+      ]
+    },
+    {
+      "id": "ru-sar-saratov",
+      "name": "Саратов",
+      "country": "RU",
+      "region": "Саратовская область",
+      "lat": 51.53,
+      "lon": 46.035,
+      "networks": [
+        {
+          "id": "ru-sar-saratov-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 5
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/sarmeshcore"
+        }
+      ]
+    },
+    {
+      "id": "ru-irk-irkutsk",
+      "name": "Иркутск",
+      "country": "RU",
+      "region": "Иркутская область",
+      "lat": 52.289166666667,
+      "lon": 104.28,
+      "networks": [
+        {
+          "id": "ru-irk-irkutsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_irk"
+        }
+      ]
+    },
+    {
+      "id": "ru-iva-ivanovo",
+      "name": "Иваново",
+      "country": "RU",
+      "region": "Ивановская область",
+      "lat": 56.99667,
+      "lon": 40.98194,
+      "networks": [
+        {
+          "id": "ru-iva-ivanovo-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "updated": "2026-10-15",
+          "community_url": "https://t.me/meshcore_iwa",
+          "note": "Справочная точка города по координатам Википедии."
+        }
+      ]
+    },
+    {
+      "id": "ru-kya-krasnoyarsk",
+      "name": "Красноярск",
+      "country": "RU",
+      "region": "Красноярский край",
+      "lat": 56.008888888889,
+      "lon": 92.871944444444,
+      "networks": [
+        {
+          "id": "ru-kya-krasnoyarsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 8
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshtastic_krsk/15243"
+        }
+      ]
+    },
+    {
+      "id": "ru-klf-kaluga",
+      "name": "Калуга",
+      "country": "RU",
+      "region": "Калужская область",
+      "lat": 54.533333333333,
+      "lon": 36.266666666667,
+      "networks": [
+        {
+          "id": "ru-klf-kaluga-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_kaluga"
+        }
+      ]
+    },
+    {
+      "id": "ru-sam-samara",
+      "name": "Самара",
+      "country": "RU",
+      "region": "Самарская область",
+      "lat": 53.183333333333,
+      "lon": 50.116666666667,
+      "networks": [
+        {
+          "id": "ru-sam-samara-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 864281000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshtastic_63/13966"
+        }
+      ]
+    },
+    {
+      "id": "ru-mur-apatity",
+      "name": "Апатиты",
+      "country": "RU",
+      "region": "Мурманская область",
+      "lat": 67.5675,
+      "lon": 33.393333333333,
+      "networks": [
+        {
+          "id": "ru-mur-apatity-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 867670000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-kir-kirov",
+      "name": "Киров",
+      "country": "RU",
+      "region": "Кировская область",
+      "lat": 58.6,
+      "lon": 49.65,
+      "networks": [
+        {
+          "id": "ru-kir-kirov-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshtastic_krv43/6605"
+        }
+      ]
+    },
+    {
+      "id": "ru-spb",
+      "name": "Санкт-Петербург",
+      "country": "RU",
+      "region": "Санкт-Петербург",
+      "lat": 59.95,
+      "lon": 30.316666666667,
+      "networks": [
+        {
+          "id": "ru-spb-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868856000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_petersburg"
+        }
+      ]
+    },
+    {
+      "id": "ru-smo-smolensk",
+      "name": "Смоленск",
+      "country": "RU",
+      "region": "Смоленская область",
+      "lat": 54.782777777778,
+      "lon": 32.045277777778,
+      "networks": [
+        {
+          "id": "ru-smo-smolensk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_smolensk"
+        }
+      ]
+    },
+    {
+      "id": "ru-lip-lipetsk",
+      "name": "Липецк",
+      "country": "RU",
+      "region": "Липецкая область",
+      "lat": 52.616666666667,
+      "lon": 39.6,
+      "networks": [
+        {
+          "id": "ru-lip-lipetsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868950000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_48"
+        }
+      ]
+    },
+    {
+      "id": "ru-da-makhachkala",
+      "name": "Махачкала",
+      "country": "RU",
+      "region": "Республика Дагестан",
+      "lat": 42.9825,
+      "lon": 47.505,
+      "networks": [
+        {
+          "id": "ru-da-makhachkala-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-che-magnitogorsk",
+      "name": "Магнитогорск",
+      "country": "RU",
+      "region": "Челябинская область",
+      "lat": 53.383333333333,
+      "lon": 59.033333333333,
+      "networks": [
+        {
+          "id": "ru-che-magnitogorsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868763000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcoremgn"
+        }
+      ]
+    },
+    {
+      "id": "ru-yan-novy-urengoy",
+      "name": "Новый Уренгой",
+      "country": "RU",
+      "region": "Ямало-Ненецкий автономный округ",
+      "lat": 66.084722222222,
+      "lon": 76.678888888889,
+      "networks": [
+        {
+          "id": "ru-yan-novy-urengoy-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-oms-omsk",
+      "name": "Омск",
+      "country": "RU",
+      "region": "Омская область",
+      "lat": 54.966666666667,
+      "lon": 73.383333333333,
+      "networks": [
+        {
+          "id": "ru-oms-omsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-nvs-novosibirsk",
+      "name": "Новосибирск",
+      "country": "RU",
+      "region": "Новосибирская область",
+      "lat": 55.033333333333,
+      "lon": 82.916666666667,
+      "networks": [
+        {
+          "id": "ru-nvs-novosibirsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869000000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 8
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_nsk"
+        }
+      ]
+    },
+    {
+      "id": "ru-per-perm",
+      "name": "Пермь",
+      "country": "RU",
+      "region": "Пермский край",
+      "lat": 58.013888888889,
+      "lon": 56.248888888889,
+      "networks": [
+        {
+          "id": "ru-per-perm-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868733000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshtastic_perm/58364"
+        }
+      ]
+    },
+    {
+      "id": "ru-pnz-penza",
+      "name": "Пенза",
+      "country": "RU",
+      "region": "Пензенская область",
+      "lat": 53.2,
+      "lon": 45.0,
+      "networks": [
+        {
+          "id": "ru-pnz-penza-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868918000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 7
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-ros-rostov-na-donu",
+      "name": "Ростов-на-Дону",
+      "country": "RU",
+      "region": "Ростовская область",
+      "lat": 47.2225,
+      "lon": 39.71,
+      "networks": [
+        {
+          "id": "ru-ros-rostov-na-donu-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/Meshcore_Rostov_na_Donu"
+        }
+      ]
+    },
+    {
+      "id": "ru-rya-ryazan",
+      "name": "Рязань",
+      "country": "RU",
+      "region": "Рязанская область",
+      "lat": 54.63,
+      "lon": 39.7425,
+      "networks": [
+        {
+          "id": "ru-rya-ryazan-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868880000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 5
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_rzn"
+        }
+      ]
+    },
+    {
+      "id": "ru-sve-yekaterinburg",
+      "name": "Екатеринбург",
+      "country": "RU",
+      "region": "Свердловская область",
+      "lat": 56.835555555556,
+      "lon": 60.612777777778,
+      "networks": [
+        {
+          "id": "ru-sve-yekaterinburg-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869047000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/Meshtastic_EKB/20118"
+        }
+      ]
+    },
+    {
+      "id": "ru-tam-tambov",
+      "name": "Тамбов",
+      "country": "RU",
+      "region": "Тамбовская область",
+      "lat": 52.723055555556,
+      "lon": 41.453888888889,
+      "networks": [
+        {
+          "id": "ru-tam-tambov-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868950000,
+            "bandwidth_hz": 125000,
+            "sf": 10,
+            "cr": 5
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcoretmb"
+        }
+      ]
+    },
+    {
+      "id": "ru-ros-taganrog",
+      "name": "Таганрог",
+      "country": "RU",
+      "region": "Ростовская область",
+      "lat": 47.233333333333,
+      "lon": 38.9,
+      "networks": [
+        {
+          "id": "ru-ros-taganrog-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868600000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/Meshcore_Rostov_na_Donu"
+        }
+      ]
+    },
+    {
+      "id": "ru-tyu-tyumen",
+      "name": "Тюмень",
+      "country": "RU",
+      "region": "Тюменская область",
+      "lat": 57.15,
+      "lon": 65.533333333333,
+      "networks": [
+        {
+          "id": "ru-tyu-tyumen-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869050000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/MeshCore_tmn_g"
+        }
+      ]
+    },
+    {
+      "id": "ru-tom-tomsk",
+      "name": "Томск",
+      "country": "RU",
+      "region": "Томская область",
+      "lat": 56.488611111111,
+      "lon": 84.952222222222,
+      "networks": [
+        {
+          "id": "ru-tom-tomsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869106000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 5
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshtastic_tom/4390"
+        }
+      ]
+    },
+    {
+      "id": "ru-tul-tula",
+      "name": "Тула",
+      "country": "RU",
+      "region": "Тульская область",
+      "lat": 54.2,
+      "lon": 37.616666666667,
+      "networks": [
+        {
+          "id": "ru-tul-tula-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshtastic_tula/31468"
+        }
+      ]
+    },
+    {
+      "id": "ru-sam-tolyatti",
+      "name": "Тольятти",
+      "country": "RU",
+      "region": "Самарская область",
+      "lat": 53.516666666667,
+      "lon": 49.416666666667,
+      "networks": [
+        {
+          "id": "ru-sam-tolyatti-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 864281000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 7
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-ba-ufa",
+      "name": "Уфа",
+      "country": "RU",
+      "region": "Республика Башкортостан",
+      "lat": 54.726111111111,
+      "lon": 55.9475,
+      "networks": [
+        {
+          "id": "ru-ba-ufa-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869000000,
+            "bandwidth_hz": 125000,
+            "sf": 11,
+            "cr": 5
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-sa-lensk",
+      "name": "Ленск",
+      "country": "RU",
+      "region": "Республика Саха (Якутия)",
+      "lat": 60.716666666667,
+      "lon": 114.9,
+      "networks": [
+        {
+          "id": "ru-sa-lensk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869432000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 5
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-uly-ulyanovsk",
+      "name": "Ульяновск",
+      "country": "RU",
+      "region": "Ульяновская область",
+      "lat": 54.316666666667,
+      "lon": 48.366666666667,
+      "networks": [
+        {
+          "id": "ru-uly-ulyanovsk-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 864281000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshtastic_ulsk/29218"
+        }
+      ]
+    },
+    {
+      "id": "ru-vla-vladimir",
+      "name": "Владимир",
+      "country": "RU",
+      "region": "Владимирская область",
+      "lat": 56.128611111111,
+      "lon": 40.405833333333,
+      "networks": [
+        {
+          "id": "ru-vla-vladimir-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 7
+          },
+          "updated": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "ru-vgg-volgograd",
+      "name": "Волгоград",
+      "country": "RU",
+      "region": "Волгоградская область",
+      "lat": 48.708611111111,
+      "lon": 44.514722222222,
+      "networks": [
+        {
+          "id": "ru-vgg-volgograd-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 869525000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcore_vlg"
+        }
+      ]
+    },
+    {
+      "id": "ru-vor-voronezh",
+      "name": "Воронеж",
+      "country": "RU",
+      "region": "Воронежская область",
+      "lat": 51.671666666667,
+      "lon": 39.210555555556,
+      "networks": [
+        {
+          "id": "ru-vor-voronezh-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "updated": "2026-10-14",
+          "community_url": "https://t.me/meshcoreVRN"
         }
       ]
     }
