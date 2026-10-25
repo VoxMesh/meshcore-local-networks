@@ -1079,6 +1079,29 @@
           "community_url": "https://t.me/meshcoreVRN"
         }
       ]
+    },
+    {
+      "id": "ru-dnr-donetsk",
+      "name": "Донецк",
+      "country": "RU",
+      "region": "Донецкая Народная Республика",
+      "lat": 48.0230,
+      "lon": 37.8022,
+      "networks": [
+        {
+          "id": "ru-dnr-donetsk",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 7
+          },
+          "updated": "2026-10-26",
+          "community_url": "https://t.me/meshcore_dnr"
+        }
+      ]
     }
   ]
 }
