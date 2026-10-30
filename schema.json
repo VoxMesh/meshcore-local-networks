@@ -90,6 +90,14 @@
         "radio": {
           "$ref": "#/$defs/radio"
         },
+        "path_hash_bytes": {
+          "type": "integer",
+          "enum": [
+            1,
+            2,
+            3
+          ]
+        },
         "updated": {
           "$ref": "#/$defs/date"
         },
