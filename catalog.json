@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "locations": [
     {
       "id": "ru-ta-kazan",
@@ -1104,6 +1104,50 @@
           "path_hash_bytes": 2,
           "updated": "2026-10-29",
           "community_url": "https://t.me/meshcore_dnr"
+        }
+      ]
+    },
+    {
+      "id": "ru-sta-stavropol",
+      "name": "Ставрополь",
+      "country": "RU",
+      "region": "Ставропольский край",
+      "lat": 45.0428,
+      "lon": 41.9734,
+      "networks": [
+        {
+          "id": "ru-sta-stavropol-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868900000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "updated": "2026-10-31"
+        }
+      ]
+    },
+    {
+      "id": "ru-kda-krasnodar",
+      "name": "Краснодар",
+      "country": "RU",
+      "region": "Краснодарский край",
+      "lat": 45.0355,
+      "lon": 38.9753,
+      "networks": [
+        {
+          "id": "ru-kda-krasnodar-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868900000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "updated": "2026-10-31"
         }
       ]
     }
