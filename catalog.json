@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated": "2026-10-29",
+  "updated": "2026-11-01",
   "locations": [
     {
       "id": "ru-ta-kazan",
@@ -694,6 +694,20 @@
           },
           "updated": "2026-10-14",
           "community_url": "https://t.me/meshcore_nsk"
+        },
+        {
+          "id": "ru-nvs-novosibirsk-02",
+          "name": "Профиль 434 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 434000000,
+            "bandwidth_hz": 62500,
+            "sf": 9,
+            "cr": 8
+          },
+          "updated": "2026-11-01",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/2",
+          "note": "По сообщению участника, между диапазонами работает двусторонний мост (Bridge)."
         }
       ]
     },
@@ -1104,6 +1118,54 @@
           "path_hash_bytes": 2,
           "updated": "2026-10-29",
           "community_url": "https://t.me/meshcore_dnr"
+        }
+      ]
+    },
+    {
+      "id": "ru-sta-stavropol",
+      "name": "Ставрополь",
+      "country": "RU",
+      "region": "Ставропольский край",
+      "lat": 45.05,
+      "lon": 41.983333333333,
+      "networks": [
+        {
+          "id": "ru-sta-stavropol-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868900000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "updated": "2026-11-01",
+          "community_url": "https://t.me/meshtastic_stv",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/pull/3"
+        }
+      ]
+    },
+    {
+      "id": "ru-kda-krasnodar",
+      "name": "Краснодар",
+      "country": "RU",
+      "region": "Краснодарский край",
+      "lat": 45.033333333333,
+      "lon": 38.983333333333,
+      "networks": [
+        {
+          "id": "ru-kda-krasnodar-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868900000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "updated": "2026-11-01",
+          "community_url": "https://t.me/MeshCore_KRD",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/pull/3"
         }
       ]
     }
