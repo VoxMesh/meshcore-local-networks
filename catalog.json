@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "locations": [
     {
       "id": "ru-ta-kazan",
@@ -1166,6 +1166,310 @@
           "updated": "2026-11-01",
           "community_url": "https://t.me/MeshCore_KRD",
           "source": "https://github.com/VoxMesh/meshcore-local-networks/pull/3"
+        }
+      ]
+    },
+    {
+      "id": "ru-crm-smf",
+      "name": "Симферополь",
+      "country": "RU",
+      "region": "Республика Крым",
+      "lat": 44.948376,
+      "lon": 34.100039,
+      "networks": [
+        {
+          "id": "ru-crm-smf-01",
+          "name": "Профиль 868 МГц",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        },
+        {
+          "id": "ru-crm-smf-02",
+          "name": "Профиль 433 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 433650000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        }
+      ]
+    },
+    {
+      "id": "ru-crm-svs",
+      "name": "Севастополь",
+      "country": "RU",
+      "region": "Севастополь",
+      "lat": 44.605,
+      "lon": 33.5225,
+      "networks": [
+        {
+          "id": "ru-crm-svs-01",
+          "name": "Профиль 868 МГц",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        },
+        {
+          "id": "ru-crm-svs-02",
+          "name": "Профиль 433 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 433650000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        }
+      ]
+    },
+    {
+      "id": "ru-crm-yalta",
+      "name": "Ялта",
+      "country": "RU",
+      "region": "Республика Крым",
+      "lat": 44.499444444444,
+      "lon": 34.155277777778,
+      "networks": [
+        {
+          "id": "ru-crm-yalta-01",
+          "name": "Профиль 868 МГц",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        },
+        {
+          "id": "ru-crm-yalta-02",
+          "name": "Профиль 433 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 433650000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        }
+      ]
+    },
+    {
+      "id": "ru-crm-saki",
+      "name": "Саки",
+      "country": "RU",
+      "region": "Республика Крым",
+      "lat": 45.133611111111,
+      "lon": 33.577222222222,
+      "networks": [
+        {
+          "id": "ru-crm-saki-01",
+          "name": "Профиль 868 МГц",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        },
+        {
+          "id": "ru-crm-saki-02",
+          "name": "Профиль 433 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 433650000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        }
+      ]
+    },
+    {
+      "id": "ru-crm-yevpatoriya",
+      "name": "Евпатория",
+      "country": "RU",
+      "region": "Республика Крым",
+      "lat": 45.2,
+      "lon": 33.358333333333,
+      "networks": [
+        {
+          "id": "ru-crm-yevpatoriya-01",
+          "name": "Профиль 868 МГц",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        },
+        {
+          "id": "ru-crm-yevpatoriya-02",
+          "name": "Профиль 433 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 433650000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        }
+      ]
+    },
+    {
+      "id": "ru-crm-krasnoperekopsk",
+      "name": "Красноперекопск",
+      "country": "RU",
+      "region": "Республика Крым",
+      "lat": 45.9675,
+      "lon": 33.800277777778,
+      "networks": [
+        {
+          "id": "ru-crm-krasnoperekopsk-01",
+          "name": "Профиль 868 МГц",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        },
+        {
+          "id": "ru-crm-krasnoperekopsk-02",
+          "name": "Профиль 433 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 433650000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        }
+      ]
+    },
+    {
+      "id": "ru-crm-armyansk",
+      "name": "Армянск",
+      "country": "RU",
+      "region": "Республика Крым",
+      "lat": 46.107222222222,
+      "lon": 33.693333333333,
+      "networks": [
+        {
+          "id": "ru-crm-armyansk-01",
+          "name": "Профиль 868 МГц",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        },
+        {
+          "id": "ru-crm-armyansk-02",
+          "name": "Профиль 433 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 433650000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        }
+      ]
+    },
+    {
+      "id": "ru-crm-alushta",
+      "name": "Алушта",
+      "country": "RU",
+      "region": "Республика Крым",
+      "lat": 44.667222222222,
+      "lon": 34.397777777778,
+      "networks": [
+        {
+          "id": "ru-crm-alushta-01",
+          "name": "Профиль 868 МГц",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 868731000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 6
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
+        },
+        {
+          "id": "ru-crm-alushta-02",
+          "name": "Профиль 433 МГц",
+          "band": "433",
+          "radio": {
+            "frequency_hz": 433650000,
+            "bandwidth_hz": 62500,
+            "sf": 8,
+            "cr": 8
+          },
+          "path_hash_bytes": 2,
+          "updated": "2026-11-02",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/4"
         }
       ]
     }
