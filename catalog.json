@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "locations": [
     {
       "id": "ru-ta-kazan",
@@ -1494,6 +1494,29 @@
           "path_hash_bytes": 2,
           "updated": "2026-11-09",
           "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/5"
+        }
+      ]
+    },
+    {
+      "id": "ru-sve-kamensk-uralsky",
+      "name": "Каменск-Уральский",
+      "country": "RU",
+      "region": "Свердловская область",
+      "lat": 56.4,
+      "lon": 61.933333333333,
+      "networks": [
+        {
+          "id": "ru-sve-kamensk-uralsky-01",
+          "name": "Местный профиль",
+          "band": "868",
+          "radio": {
+            "frequency_hz": 864002000,
+            "bandwidth_hz": 62500,
+            "sf": 7,
+            "cr": 7
+          },
+          "updated": "2026-11-10",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/6"
         }
       ]
     }
