@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated": "2026-11-10",
+  "updated": "2026-11-16",
   "locations": [
     {
       "id": "ru-ta-kazan",
@@ -1492,7 +1492,8 @@
             "cr": 8
           },
           "path_hash_bytes": 2,
-          "updated": "2026-11-09",
+          "community_url": "https://t.me/meshtastic_tuapse/2565",
+          "updated": "2026-11-16",
           "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/5"
         }
       ]
