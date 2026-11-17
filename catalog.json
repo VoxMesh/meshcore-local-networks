@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated": "2026-11-16",
+  "updated": "2026-11-18",
   "locations": [
     {
       "id": "ru-ta-kazan",
@@ -466,8 +466,10 @@
             "sf": 8,
             "cr": 7
           },
-          "updated": "2026-10-14",
-          "community_url": "https://t.me/meshtastic_63/13966"
+          "path_hash_bytes": 2,
+          "updated": "2026-11-18",
+          "community_url": "https://t.me/meshtastic_63/13966",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/7"
         }
       ]
     },
@@ -958,7 +960,10 @@
             "sf": 8,
             "cr": 7
           },
-          "updated": "2026-10-14"
+          "path_hash_bytes": 2,
+          "updated": "2026-11-18",
+          "community_url": "https://t.me/meshtastic_tlt/1856",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/7"
         }
       ]
     },
@@ -1024,8 +1029,10 @@
             "sf": 8,
             "cr": 7
           },
-          "updated": "2026-10-14",
-          "community_url": "https://t.me/meshtastic_ulsk/29218"
+          "path_hash_bytes": 2,
+          "updated": "2026-11-18",
+          "community_url": "https://t.me/meshtastic_ulsk/29218",
+          "source": "https://github.com/VoxMesh/meshcore-local-networks/issues/7"
         }
       ]
     },
